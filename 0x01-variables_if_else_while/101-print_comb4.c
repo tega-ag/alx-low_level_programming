@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+#include <stdlib.h>
+#include <time.h>
 /**
  * main - print triple combos
  *
@@ -38,4 +39,4 @@ int main(void)
 							}
 							putchar(10);
 							return (0);
-	}
+}
